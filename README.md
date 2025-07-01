@@ -27,7 +27,7 @@ Sistema intuitivo desenvolvido com **componentes funcionais** e **React Hooks** 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/Guih0412/T3.git
 
 2. Instale as dependências:
    ```bash
