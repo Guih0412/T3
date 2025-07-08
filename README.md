@@ -15,6 +15,14 @@ Sistema intuitivo desenvolvido com **componentes funcionais** e **React Hooks** 
 
 ---
 
+## ⚙️ Pré-requisitos
+
+- **Node.js versão recomendada:** 20.x (por exemplo, 20.6.1)  
+- Algumas dependências do projeto, como `react-router-dom@7.5.3`, exigem Node 20 ou superior.  
+- Caso utilize outra versão, verifique a compatibilidade e atualize seu ambiente conforme necessário.
+
+---
+
 ## 🚀 Funcionalidades
 
 - Gerenciamento completo de clientes, pets, produtos e serviços, por meio de cadastro, edição, exclusão e listagem
